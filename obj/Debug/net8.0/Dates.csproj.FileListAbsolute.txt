@@ -1,0 +1,14 @@
+/home/amano/Curio/Dates/bin/Debug/net8.0/Dates
+/home/amano/Curio/Dates/bin/Debug/net8.0/Dates.deps.json
+/home/amano/Curio/Dates/bin/Debug/net8.0/Dates.runtimeconfig.json
+/home/amano/Curio/Dates/bin/Debug/net8.0/Dates.dll
+/home/amano/Curio/Dates/bin/Debug/net8.0/Dates.pdb
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.GeneratedMSBuildEditorConfig.editorconfig
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.AssemblyInfoInputs.cache
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.AssemblyInfo.cs
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.csproj.CoreCompileInputs.cache
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.dll
+/home/amano/Curio/Dates/obj/Debug/net8.0/refint/Dates.dll
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.pdb
+/home/amano/Curio/Dates/obj/Debug/net8.0/Dates.genruntimeconfig.cache
+/home/amano/Curio/Dates/obj/Debug/net8.0/ref/Dates.dll
